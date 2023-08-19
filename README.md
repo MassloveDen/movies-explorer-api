@@ -12,9 +12,9 @@
 ## Ссылки на проект
 
 IP 51.250.95.169  
+
 Frontend https://mass-diplom.nomoreparties.co 
+
 Backend https://api.mass-diplom.nomoreparties.co 
+
 Адрес репозитория: https://github.com/MassloveDen/movies-explorer-api
-
-
-curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
